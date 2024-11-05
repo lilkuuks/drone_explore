@@ -5,4 +5,5 @@ info.txt
 /venv
 /MainTest.py
 .idea
-app.py
+/Test environment/app.py
+__pycache__
